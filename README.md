@@ -1,2 +1,3 @@
 # sworddefence.github.io
-My GitHub Web page
+My GitHub webpage
+I'm God himself a true master among us
