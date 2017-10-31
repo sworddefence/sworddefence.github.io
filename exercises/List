@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The no so good list</h2>
+
+<ul>
+  <li>BOB</li>
+  <li>JOE</li>
+  <li>JOHN</li>
+</ul>  
+
+<h2>The greatish List</h2>
+
+<ol>
+  <li>BOBBY</li>
+  <li>JOEY</li>
+  <li>JOHNNY</li>
+</ol> 
+
+</body>
+</html>
