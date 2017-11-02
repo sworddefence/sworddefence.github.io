@@ -1,3 +1,16 @@
 p{
   color:red;
 }
+#id1 {
+  color:red;
+}
+.center {
+  text-align: center;
+  color:blue;
+}
+h1 {
+  text-align: right;
+}
+.bob h2{
+  color:red;
+}
