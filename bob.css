@@ -1,3 +1,19 @@
 table {
-backround-color:blue;
+  background-color:yellow;
+
+}
+table, th, td {
+    border: 1px solid black;
+}
+p {
+  text-align: center;
+}
+.left{
+  text-align: left;
+}
+.blue{
+  color: blue;
+}
+.red{
+  color: red;
 }
