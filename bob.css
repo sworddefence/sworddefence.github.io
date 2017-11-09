@@ -5,9 +5,6 @@ table {
 table, th, td {
     border: 1px solid black;
 }
-p {
-  text-align: center;
-}
 .left{
   text-align: left;
 }
@@ -16,4 +13,20 @@ p {
 }
 .red{
   color: red;
+}
+.baw{
+  color: white;
+  background-color:black;
+  text-align:center;
+}
+a{
+  border: 3px dashed blue;
+  background-color: red;
+}
+body{
+  background-image: url("https://themechangers.files.wordpress.com/2014/11/cool-design-background1.jpg")
+}
+.lol{
+  border: 1px solid green;
+  color:orange;
 }
