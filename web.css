@@ -1,5 +1,46 @@
 body{
-  background-image: ("urlhttp://thesmashable.com/wp-content/uploads/2014/06/awesome-toothless-how-to-dragon-2-character-wallpaper-desktop-backgrounds.jpg")
-  width: 100%;
-  height: 100%;
+  background-color: black
+}
+  
+  
+  
+  
+  
+.hi{
+   background-image: url("http://thesmashable.com/wp-content/uploads/2014/06/awesome-toothless-how-to-dragon-2-character-wallpaper-desktop-backgrounds.jpg");
+}
+ 
+
+.white{
+  color:white;
+}
+.float{
+  float:right;
+  width: 480px;
+  height: 344px;
+}
+body {margin:0;}
+
+.icon-bar {
+    width: 100%;
+    background-color: #555;
+    overflow: 5;
+}
+
+.icon-bar a {
+    float: left;
+    width: 12.5%;
+    text-align: center;
+    padding: 12px 0;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 36px;
+}
+
+.icon-bar a:hover {
+    background-color: #000;
+}
+
+.active {
+    background-color: #4CAF50;
 }
