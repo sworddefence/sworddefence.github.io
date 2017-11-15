@@ -50,6 +50,7 @@ body {margin:0;}
 img.center {
     display: block;
     margin: 0 auto;
+  
 }
 
 .tfloat{
@@ -60,7 +61,15 @@ img.center {
   width: 274px;
   height: 251.8px;
 }
-
+.blue{
+  background-color:#0c78d6;
+}
+.boulder{
+  background-color:#a35109;
+}
+.sharp{
+ backgroudn:#6d6969; 
+}
 
 
 
