@@ -24,7 +24,7 @@ body {margin:0;}
 .icon-bar {
     width: 100%;
     background-color: #555;
-    overflow: 5;
+    overflow: auto;
 }
 
 .icon-bar a {
@@ -44,3 +44,31 @@ body {margin:0;}
 .active {
     background-color: #4CAF50;
 }
+.center{
+  text-align:center;
+}
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+.tfloat{
+  float:right;
+}
+.sfloat{
+  float:right;
+  width: 274px;
+  height: 251.8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
