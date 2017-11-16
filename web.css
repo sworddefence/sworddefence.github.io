@@ -65,15 +65,24 @@ img.center {
   background-color:#0c78d6;
 }
 .boulder{
-  background-color:#a35109;
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32CUBwwMyHW82dlF-a5KAhMGHfZvioXRRLNzW-R9a4Pm9A65svg");
 }
 .sharp{
- backgroudn:#6d6969; 
+ background-image: url("https://i.pinimg.com/originals/0c/65/4a/0c654a9389016ae7cc305e52e2f1cdc1.jpg"); 
 }
-
-
-
-
+.stoke{
+  background-color:#d89102;
+}
+.fear{
+  background-color:#a0060e;
+}
+.brown{
+  color:black;
+  background-color:#a6bcab;
+}
+.stoker{
+  background-image:url("http://www.psd-dude.com/tutorials/resources-images/fire-backgrounds-and-textures-for-photoshop-artists/fiery-texture-background.jpg");
+}
 
 
 
