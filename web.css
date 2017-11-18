@@ -83,7 +83,10 @@ img.center {
 .stoker{
   background-image:url("http://www.psd-dude.com/tutorials/resources-images/fire-backgrounds-and-textures-for-photoshop-artists/fiery-texture-background.jpg");
 }
-
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
 
 
 
